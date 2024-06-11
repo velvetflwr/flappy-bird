@@ -1,5 +1,5 @@
 import greenfoot.*;
-import java.awt.Color;
+
 
 /**
  * This is the Game Over screen displayed when the uses loses the game. 

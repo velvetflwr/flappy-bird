@@ -1,6 +1,8 @@
 #BlueJ class context
-comment0.params=location
-comment0.target=Boundary(int)
-comment1.params=
-comment1.target=void\ act()
-numComments=2
+comment0.target=Boundary
+comment0.text=\n\ This\ is\ an\ invisible\ line\ between\ two\ pipes.\ When\ the\ bee\ touches\ it,\ it\ knows\ to\ tell\ the\ world\ to\ add\ a\ point.\n\ \n\ @author\ Achyudh,\ Shantanu\n\ @version\ 14/08/2015\n
+comment1.params=location
+comment1.target=Boundary(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

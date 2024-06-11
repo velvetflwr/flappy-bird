@@ -1,10 +1,12 @@
 #BlueJ class context
-comment0.params=score
-comment0.target=GameOver(int)
+comment0.target=GameOver
+comment0.text=\n\ This\ is\ the\ Game\ Over\ screen\ displayed\ when\ the\ uses\ loses\ the\ game.\ \n\ \n\ @author\ Achyudh,\ Shantanu\n\ @version\ 14/08/2015\n
 comment1.params=score
-comment1.target=int\ getBestScore(int)
-comment1.text=\r\n\ Returns\ the\ best\ score\ attained\ by\ the\ player\ and\ checks\ if\ this\ is\ a\ new\ highscore.\r\n\ If\ yes,\ then\ it\ returns\ that\ value\ and\ sets\ it\ as\ the\ high\ score.\r\n
-comment2.params=
-comment2.target=void\ act()
-comment2.text=\r\n\ Resets\ the\ world\ upon\ pressing\ Enter\ to\ start\ a\ new\ game.\r\n
-numComments=3
+comment1.target=GameOver(int)
+comment2.params=score
+comment2.target=int\ getBestScore(int)
+comment2.text=\n\ Returns\ the\ best\ score\ attained\ by\ the\ player\ and\ checks\ if\ this\ is\ a\ new\ highscore.\n\ If\ yes,\ then\ it\ returns\ that\ value\ and\ sets\ it\ as\ the\ high\ score.\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Resets\ the\ world\ upon\ pressing\ Enter\ to\ start\ a\ new\ game.\n
+numComments=4

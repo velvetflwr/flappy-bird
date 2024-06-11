@@ -1,5 +1,5 @@
 import greenfoot.*;  
-import java.awt.Color;
+
 
 /**
  * A text display showing an integer.
